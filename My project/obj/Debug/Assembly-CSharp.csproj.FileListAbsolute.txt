@@ -1,0 +1,2 @@
+D:\IBRAIN\PROGRAMACION\My project\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\IBRAIN\PROGRAMACION\My project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
